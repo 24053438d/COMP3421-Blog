@@ -96,8 +96,8 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
      - Password: admin123
    
  - Tracking Features:
-     - Press "Analytics"
-     - Sorting function by date or date range
+  - Press "Analytics"
+  - Sorting function by date or date range:
      - Post view counts
      - Page view counts
      - Active Users
