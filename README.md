@@ -60,8 +60,8 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
    - Unique email validation
 
 2. **Authentication**
-  - Password reset functionality via email
-  - Logout functionality with session cleanup
+   - Password reset functionality via reset link
+   - Logout functionality with session cleanup
 
 3. **Creating Posts**
    - Log in to your account using email and password
