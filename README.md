@@ -12,7 +12,6 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
 ├── database/       # Database related files
 ├── includes/       # Common includes
 ├── middleware/     # Middleware components
-├── ANALYTICS.md    # Analytics documentation
 └── *.php           # Main application files
 ```
 
