@@ -112,14 +112,12 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
 
  - Tracking Features:
   - Press "Security Logs"
-  - Sorting function by date
-  - View security events including:
+  - Sorting function by event type, username and date range:
     - Event ID
     - Event type
     - User ID
     - IP address
     - Date & Time
-    - View Details(email)
+    - View Details
 
-
-
+      
