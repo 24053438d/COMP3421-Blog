@@ -90,27 +90,27 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
      - Approve/Delete pending comments 
      - Delete approved comments
 
-6. ### Analytics (Admin Only)
-**Admin Credentials:**
-   - Email: admin123@gmail.com
-   - Password: admin123
+6. **Analytics (Admin Only)**
+  - Admin Credentials:
+     - Email: admin123@gmail.com
+     - Password: admin123
+   
+ - Tracking Features:
+     - Press "Analytics"
+     - Sorting function by date or date range
+     - Post view counts
+     - Page view counts
+     - Active Users
+     - User Interactions
+     - Page Load Performance
+     - Geographical Distribution 
 
- - **Tracking Features**
-  - Press "Analytics"
-  - Sorting function by date or date range
-  - Post view counts
-  - Page view counts
-  - Active Users 
-  - User Interactions 
-  - Page Load Performance 
-  - Geographical Distribution 
+7. **Security Log (Admin Only)**
+  - Admin Credentials:
+     - Email: admin123@gmail.com
+     - Password: admin123
 
-7. ### Security Log (Admin Only)
-**Admin Credentials:**
-- Email: admin123@gmail.com
-- Password: admin123
-
-- **Security Features**
+ - Tracking Features:
   - Press "Security Logs"
   - Sorting function by date
   - View security events including:
