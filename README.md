@@ -79,14 +79,14 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
    - Log in with admin credentials:
      - Email: admin123@gmail.com
      - Password: admin123
-   - Access the admin panel at `/admin`
+   - Access the admin panel at `/admin` or click Admin in navigation bar
    - Manage posts and view detailed of the post
      - Title
      - Author
      - Date
      - Status (Published/Archived)
-     - Actions(View/Edit/Delete)
-   - Manage comments at "Admin"
+     - Actions (View/Edit/Delete)
+   - Manage comments
      - Approve/Delete pending comments 
      - Delete approved comments
 
@@ -97,15 +97,15 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
 
  - **Tracking Features**
   - Press "Analytics"
-  - Sorting function by date
+  - Sorting function by date or date range
   - Post view counts
   - Page view counts
-  - Active Users (Last 30 Days)
-  - User Interactions (Last 30 Days)
-  - Page Load Performance (Last 30 Days)
-  - Geographical Distribution (Last 30 Days)
+  - Active Users 
+  - User Interactions 
+  - Page Load Performance 
+  - Geographical Distribution 
 
-7.### Security Log (Admin Only)
+7. ### Security Log (Admin Only)
 **Admin Credentials:**
 - Email: admin123@gmail.com
 - Password: admin123
