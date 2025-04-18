@@ -19,8 +19,7 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
 
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
-- Web server (Apache/Nginx)
-- Composer (for dependency management)
+- Web server (Apache recommended)
 
 ## Setup Instructions
 
@@ -53,7 +52,7 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
 ### Running the Features
 
 1. **User Registration**
-   - Visit [https://comp3421.site/register.php](https://comp3421.site/register.php)
+   - Visit [https://comp3421.site/register.php]
    - Fill in the registration form (username, email, and password)
    - Users can create accounts with email
    - Password strength requirements enforced
@@ -82,14 +81,14 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
      - Password: admin123
    - Access the admin panel at `/admin`
    - Manage posts and view detailed of the post
-　　　 -Title
-            -Author
-            -Date
-            -status (Published/Archived)
-            -Actions(View/Edit/Delete)
-   - Manage comments at "Admin" 
-      -Approve/Delete pending comments 
-      -Delete approved comments
+     - Title
+     - Author
+     - Date
+     - Status (Published/Archived)
+     - Actions(View/Edit/Delete)
+   - Manage comments at "Admin"
+     - Approve/Delete pending comments 
+     - Delete approved comments
 
 6. ### Analytics (Admin Only)
 **Admin Credentials:**
