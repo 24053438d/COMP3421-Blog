@@ -79,7 +79,7 @@ A modern blog platform built with PHP and MySQL, featuring user authentication, 
    - Log in with admin credentials:
      - Email: admin123@gmail.com
      - Password: admin123
-   - Access the admin panel at `/admin` or click Admin in navigation bar
+   - Access the admin panel at `/admin` or click "Admin" in navigation bar
    - Manage posts and view detailed of the post
      - Title
      - Author
